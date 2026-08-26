@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there, I'm Xinrui (Ryan) Jiang, a master's student in EE at Stanford University. Prior to that, I received my B.Eng from Fudan University. During my undergraduate study, I was fortunate to be advised by Professor <a href='https://taco-group.github.io/index.html'>Zhengzhong Tu</a> at Texas A&M University and Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a> at Martinos Center for Biomedical Imaging/Harvard Medical School. 
 
-My current interests include AI agents and image and video generation, with recent work on tool-using agents for video editing and generative model evaluation. My earlier research focused on low-level vision, including image super-resolution and quantitative MRI reconstruction. I enjoy starting from real-world needs and observations, framing concrete technical problems, and developing practical methods and systems to address them.
+My current interests include AI agents and visual creation, with recent work on tool-using agents for video editing and generative model evaluation. My earlier research focused on low-level vision, including image super-resolution and quantitative MRI reconstruction. I enjoy starting from real-world needs and observations, framing concrete technical problems, and developing practical methods and systems to address them.
 
 # 📝 Publications 
 
